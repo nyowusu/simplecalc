@@ -1,0 +1,17 @@
+.display {
+    grid-column: 1 / 5;
+    background-color: #333;
+    color: white;
+    padding: 7px;
+    text-align: right;
+  }
+  
+  .display-main {
+    border-radius: 0% 0% 10% 10%;
+    font-size: 30px;
+  }
+  
+  .display-aux {
+    border-radius: 10% 10% 0% 0%;
+    font-size: 16px;
+  }
