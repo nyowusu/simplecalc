@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplecalc/static/css/main.9b157bc2.chunk.css",
+    "main.js": "/simplecalc/static/js/main.2368a94a.chunk.js",
+    "main.js.map": "/simplecalc/static/js/main.2368a94a.chunk.js.map",
+    "runtime~main.js": "/simplecalc/static/js/runtime~main.a7447eb1.js",
+    "runtime~main.js.map": "/simplecalc/static/js/runtime~main.a7447eb1.js.map",
+    "static/js/2.884c28c3.chunk.js": "/simplecalc/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/simplecalc/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/simplecalc/index.html",
+    "precache-manifest.c5daa4842bd599d8653909e48e31edab.js": "/simplecalc/precache-manifest.c5daa4842bd599d8653909e48e31edab.js",
+    "service-worker.js": "/simplecalc/service-worker.js",
+    "static/css/main.9b157bc2.chunk.css.map": "/simplecalc/static/css/main.9b157bc2.chunk.css.map"
+  }
+}
